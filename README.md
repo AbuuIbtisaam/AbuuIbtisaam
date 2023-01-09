@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Computer Science Engineering at KL University in India (2022 - 2025).
 - 💞️ I’m looking to collaborate on developing application that will be useful in the society.
 - 📫 You can reach me via email: "mansoormustapha22@gmail.com"
+- 📫 LinkedIn Profile: https://www.linkedin.com/in/mansoor-hussein-mustapha-304677226/
 
 <!---
 AbuuIbtisaam/AbuuIbtisaam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
